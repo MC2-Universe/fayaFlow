@@ -227,7 +227,7 @@ build-backend = "hatchling.build"
 
 
 [project.urls]
-Repository = "https://github.com/langflow-ai/langflow"
+Repository = "https://github.com/mc2-universe/faya"
 Documentation = "https://docs.langflow.org"
 
 # Optional dependencies for uv

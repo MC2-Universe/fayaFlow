@@ -143,7 +143,7 @@ jobs:
 
   # Not making nightly builds dependent on integration test success
   # due to inherent flakiness of 3rd party integrations
-  # Revisit when https://github.com/langflow-ai/langflow/pull/3607 is merged.
+  # Revisit when https://github.com/mc2-universe/faya/pull/3607 is merged.
   # backend-integration-tests:
   #   name: Run Backend Integration Tests
   #   needs: create-nightly-tag

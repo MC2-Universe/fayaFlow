@@ -224,7 +224,7 @@ module.exports = {
         {
           type: "link",
           label: "Changelog",
-          href: "https://github.com/langflow-ai/langflow/releases/latest",
+          href: "https://github.com/mc2-universe/faya/releases/latest",
         },
       ],
     },

@@ -99,9 +99,9 @@ function ApiInterceptor() {
 
     const isAuthorizedURL = (url) => {
       const authorizedDomains = [
-        "https://raw.githubusercontent.com/langflow-ai/langflow_examples/main/examples",
-        "https://api.github.com/repos/langflow-ai/langflow_examples/contents/examples",
-        "https://api.github.com/repos/langflow-ai/langflow",
+        "https://raw.githubusercontent.com/mc2-universe/faya_examples/main/examples",
+        "https://api.github.com/repos/mc2-universe/faya_examples/contents/examples",
+        "https://api.github.com/repos/mc2-universe/faya",
         "auto_login",
       ];
 

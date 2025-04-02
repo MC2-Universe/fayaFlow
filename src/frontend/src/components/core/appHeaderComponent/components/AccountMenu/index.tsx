@@ -128,7 +128,7 @@ export const AccountMenu = () => {
             {ENABLE_DATASTAX_LANGFLOW ? (
               <HeaderMenuItemLink
                 newPage
-                href="https://github.com/langflow-ai/langflow"
+                href="https://github.com/mc2-universe/faya"
               >
                 <div className="-my-2 mr-2 flex w-full items-center justify-between">
                   <div className="text-sm">Star the repo</div>
@@ -138,7 +138,7 @@ export const AccountMenu = () => {
             ) : (
               <HeaderMenuItemLink
                 newPage
-                href="https://github.com/langflow-ai/langflow/discussions"
+                href="https://github.com/mc2-universe/faya/discussions"
               >
                 <span data-testid="menu_github_button" id="menu_github_button">
                   Share Feedback on Github

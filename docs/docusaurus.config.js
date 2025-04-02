@@ -223,7 +223,7 @@ const config = {
           // right
           {
             position: "right",
-            href: "https://github.com/langflow-ai/langflow",
+            href: "https://github.com/mc2-universe/faya",
             className: "header-github-link",
             target: "_blank",
             rel: null,
